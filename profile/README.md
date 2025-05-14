@@ -2,7 +2,7 @@
 
 
 ## Concordia Research Work 
-1. [Master's Thesis](https://github.com/estineali/Masters-Thesis) & [Prose](https://github.com/Games-as-Research/Prose)
+1. [Master's Thesis](https://github.com/estineali/Masters-Thesis) & [Project](https://github.com/Games-as-Research/Prose)
 2. [The ■■■■■■ Summit Website](https://github.com/estineali/BlackBarSummit)
 3. [Materializing Design Website](https://github.com/Games-as-Research/Home)
 4. [Reflective Surfaces](https://github.com/Games-as-Research/Reflective-Surfaces)
