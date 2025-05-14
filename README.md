@@ -30,7 +30,7 @@
 1. [CS492 - Capstone](https://github.com/estineali/CS492-Cybaware)
 2. [CS342 - Game Development](https://github.com/estineali/CS342-Duel)
 3. [CS440 - Computer Graphics](https://github.com/estineali/CS440-Computer-Graphics)
-4. [EE452 - Computer Vision](https://github.com/estineali/EE451-Hand-Drawn-Circuits)
+4. [EE452 - Computer Vision](https://github.com/estineali/EE452-Handy)
 5. [CS232 - Operating Systems](https://github.com/estineali/CS232-Operating-Systems)
 6. [CS351 - Artificial Intelligence](https://github.com/estineali/CS351-Kachra-Rani)
 7. [EE424 - Computer Networking](https://github.com/estineali/EE424-SDNs-over-Mininet)
