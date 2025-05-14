@@ -20,11 +20,20 @@
 16. [Abundant Intelligences Research Network Infrastructure](https://github.com/AbundantIntelligences)
 17. PoEMM Apps: [Speak](https://github.com/OBX-Labs/What-They-Speak-When-They-Speak-to-Me-iOs), [White](https://github.com/OBX-Labs/The-World-Was-White-iOS), [Death](https://github.com/OBX-Labs/The-World-Around-You-Wants-Your-Death-iOS), [Rattlesnakes](https://github.com/OBX-Labs/The-Summer-The-Rattlesnakes-Came-iOS), [Smooth](https://github.com/OBX-Labs/Smooth-Second-Bastard-iOS), [Choice](https://github.com/OBX-Labs/No-Choice-About-the-Terminology-iOS), [Migration](https://github.com/OBX-Labs/The-Great-Migration-iOS), [Know](https://github.com/OBX-Labs/Buzz-Aldrin-Doesnt-Know-Any-Better-iOS)
 
+## Others 
+1. [Programming Exercises](https://github.com/estineali/Programming)
+2. [C# for Unity - Coursera](https://github.com/estineali/CourseraSpec_CSharp_for_unity)
+3. [Game Design - Coursera](https://github.com/estineali/CourseraSpec_Game_design)
+4. [Bounty Hunter](https://github.com/estineali/BountyHunter)
+5. Nostagain - Lostagain 2023 [Unity Wall](https://github.com/Zerohour-Tech/LostAgain-Unity) & [Webfront](https://github.com/Zerohour-Tech/Lostagain-Webfront)
+6. Nostagain - Time in a Bottle 2024 [Unity Wall](https://github.com/Zerohour-Tech/TimeInABottle)
+
 ## Templates 
 1. [React template](https://github.com/estineali/react-template)
 2. [ExpressJS Tempalate](https://github.com/estineali/ExpressWebserver)
 3. [Design Journal Template](https://github.com/Games-as-Research/Design-Project-Template)
 4. [Minecraft Forge 1.20.X Template](https://github.com/estineali/FORGE-MDK-1.20.x) 
+
 
 ## Habib University 
 1. [CS492 - Capstone](https://github.com/estineali/CS492-Cybaware)
@@ -40,9 +49,3 @@
 11. [CS102 - Data Structures and Algorithms](https://github.com/estineali/CS102-Logic-Circuit-Simulator)
 12. [CS355 - Database Systems](https://github.com/estineali/CS355-KhanaMangwana_2018)
 13. [MATH205 - Linear Algebra](https://github.com/estineali/MATH205-Linear-Algebra)
-
-## Others 
-1. [Programming Exercises](https://github.com/estineali/Programming)
-2. [C# for Unity - Coursera](https://github.com/estineali/CourseraSpec_CSharp_for_unity)
-3. [Game Design - Coursera](https://github.com/estineali/CourseraSpec_Game_design)
-4. [Bounty Hunter](https://github.com/estineali/BountyHunter)
